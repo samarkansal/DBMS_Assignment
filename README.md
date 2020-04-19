@@ -8,7 +8,7 @@ decomposition to take it to the (x+1) NF. Also identify the keys for the decompo
 USAGE:
 1.javac module1
 2.java module1
-3.<<Attributes seperated by space>>
+3.<< Attributes seperated by space >>
 4.<<FD's with form A,B C,D>>
 
 module2
