@@ -1,4 +1,4 @@
-# DBMS_Assignment
+# DBMS_study_Utils
 
 module1
 Q: For a given Relation (Table) with given attributes and set of FDs, identify the keys and check
